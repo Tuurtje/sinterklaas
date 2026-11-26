@@ -1,14 +1,236 @@
 [
-  { "id": "tim", "name": "Tim", "spotifyUrl": "https://open.spotify.com/track/4kn3oqrioMIsxtb6EULCiw?si=eabb67f99d964bf4", "theme": { "backgroundImage": "images/tim-zwembad.jpg", "backgroundColor": "#101526", "backgroundDeep": "#050712", "glow": "rgb(255 42 220 / 54%)", "overlayTop": "rgb(5 10 25 / 8%)", "overlayBottom": "rgb(3 5 18 / 24%)", "card": "rgb(7 13 30 / 40%)", "heading": "#ff5ad9", "text": "#f5f7ff", "accent": "#b8ff3b", "border": "rgb(81 244 255 / 78%)" } },
-  { "id": "brigit", "name": "Brigit", "spotifyUrl": "https://open.spotify.com/track/5QF0rE2dndU0aGNCOXkxq3?si=e6bdb579ff444596", "theme": { "backgroundImage": "images/brigit-winterbos.jpg", "backgroundColor": "#dceef6", "backgroundDeep": "#173c56", "glow": "rgb(255 255 255 / 54%)", "overlayTop": "rgb(225 242 252 / 8%)", "overlayBottom": "rgb(8 28 44 / 30%)", "card": "rgb(245 251 255 / 10%)", "heading": "#07537a", "text": "#174b66", "accent": "#a87b2c", "border": "rgb(255 255 255 / 60%)" } },
-  { "id": "sonja", "name": "Sonja", "spotifyUrl": "https://open.spotify.com/track/6qpt8RfvSz67i1UzPusvFt?si=5f579ddf622b4138", "theme": { "backgroundImage": "images/sonja-kalender.jpg", "backgroundColor": "#792c29", "backgroundDeep": "#321516", "glow": "rgb(220 104 86 / 34%)", "overlayTop": "rgb(255 255 255 / 5%)", "overlayBottom": "rgb(0 0 0 / 20%)", "card": "rgb(255 239 226 / 30%)", "heading": "#711e1c", "text": "#361916", "accent": "#852c24", "border": "rgb(208 128 103 / 72%)" } },
-  { "id": "ramon", "name": "Ramon", "spotifyUrl": "", "theme": { "backgroundImage": null, "backgroundColor": "#274d43", "backgroundDeep": "#142522", "glow": "rgb(177 215 167 / 32%)", "overlayTop": "rgb(255 255 255 / 5%)", "overlayBottom": "rgb(0 0 0 / 20%)", "card": "rgb(241 249 234 / 87%)", "heading": "#285c48", "text": "#273d31", "accent": "#a36b38", "border": "rgb(177 215 167 / 70%)" } },
-  { "id": "monique", "name": "Monique", "spotifyUrl": "https://open.spotify.com/track/3AOksJAaGTyEQ7EUHG93IZ?si=f9697a1151ab4729", "theme": { "backgroundImage": "images/monique-murdoku.jpg", "backgroundColor": "#572d3b", "backgroundDeep": "#241820", "glow": "rgb(238 173 151 / 32%)", "overlayTop": "rgb(255 255 255 / 5%)", "overlayBottom": "rgb(0 0 0 / 20%)", "card": "rgb(255 242 233 / 34%)", "heading": "#7d293b", "text": "#40272b", "accent": "#b36a43", "border": "rgb(224 164 141 / 72%)" } },
-  { "id": "arthur", "name": "Arthur", "spotifyUrl": "https://open.spotify.com/track/7yVyTfEMnR4p1LcAbo2uiF?si=f04a0946c90c49dd", "theme": { "backgroundImage": "images/arthur-wadden.jpg", "backgroundColor": "#66502d", "backgroundDeep": "#292216", "glow": "rgb(248 214 132 / 36%)", "overlayTop": "rgb(255 255 255 / 5%)", "overlayBottom": "rgb(0 0 0 / 20%)", "card": "rgb(255 249 226 / 20%)", "heading": "#75551f", "text": "#40351f", "accent": "#a44b32", "border": "rgb(236 200 119 / 74%)" } },
-  { "id": "eva", "name": "Eva", "spotifyUrl": "https://open.spotify.com/track/2Bz4aSSRLoiWGat0xHbIk0?si=b7d5197b7fae409c", "theme": { "backgroundImage": "images/eva-makeup.jpg", "backgroundColor": "#d2c0a9", "backgroundDeep": "#66574a", "glow": "rgb(255 239 214 / 35%)", "overlayTop": "rgb(255 248 235 / 7%)", "overlayBottom": "rgb(71 54 41 / 18%)", "card": "rgb(240 226 207 / 34%)", "heading": "#624b3a", "text": "#40362d", "accent": "#9a7350", "border": "rgb(231 212 187 / 58%)" } },
-  { "id": "sophie", "name": "Sophie", "spotifyUrl": "https://open.spotify.com/album/2lRsZapxZxX43cmoDygp45?si=73473861f9a942f5", "theme": { "backgroundImage": "images/sophie-juwelen.jpg", "backgroundColor": "#b9cad9", "backgroundDeep": "#566779", "glow": "rgb(235 248 255 / 55%)", "overlayTop": "rgb(255 255 255 / 5%)", "overlayBottom": "rgb(54 65 88 / 15%)", "card": "rgb(244 249 255 / 55%)", "heading": "#514379", "text": "#293547", "accent": "#57417d", "border": "rgb(235 245 255 / 85%)" } },
-  { "id": "bob", "name": "Bob", "spotifyUrl": "https://open.spotify.com/track/2EJl41p0t7stIkDdZSEq4E?si=e8fe9aa3136147c5", "theme": { "backgroundImage": "images/bob-trui.jpg", "backgroundColor": "#394e62", "backgroundDeep": "#1b2431", "glow": "rgb(184 210 226 / 34%)", "overlayTop": "rgb(255 255 255 / 5%)", "overlayBottom": "rgb(0 0 0 / 20%)", "card": "rgb(242 248 251 / 20%)", "heading": "#315a78", "text": "#2c3b49", "accent": "#ad7142", "border": "rgb(184 210 226 / 72%)" } },
-  { "id": "joep", "name": "Joep", "spotifyUrl": "https://open.spotify.com/track/68Fa3IMF05Rj9lX3TRJepp?si=3c72e508d0664081", "theme": { "backgroundImage": "images/joep-box.jpg", "backgroundColor": "#a9c99b", "backgroundDeep": "#263c2d", "glow": "rgb(205 235 190 / 34%)", "overlayTop": "rgb(240 255 235 / 4%)", "overlayBottom": "rgb(24 43 29 / 16%)", "card": "rgb(222 241 216 / 34%)", "heading": "#315d39", "text": "#233b2b", "accent": "#55774f", "border": "rgb(190 224 180 / 52%)" } },
-  { "id": "jose", "name": "José", "spotifyUrl": "https://open.spotify.com/track/0iyz853L3VDvFtqxEEl6kh?si=8fcbc7bee92a477d", "theme": { "backgroundImage": "images/jose-vakantie.jpg", "backgroundColor": "#b9823d", "backgroundDeep": "#39291d", "glow": "rgb(255 205 119 / 42%)", "overlayTop": "rgb(255 222 157 / 10%)", "overlayBottom": "rgb(42 26 15 / 28%)", "card": "rgb(255 239 202 / 50%)", "heading": "#704718", "text": "#443421", "accent": "#a66c20", "border": "rgb(245 198 116 / 78%)" } },
-  { "id": "ton", "name": "Ton", "spotifyUrl": "https://open.spotify.com/track/3tI8Biqw9ZKBMrQ5qayNBs?si=a537fb85683d400b", "theme": { "backgroundImage": "images/ton-speculaas.jpg", "backgroundColor": "#168bd2", "backgroundDeep": "#06264f", "glow": "rgb(65 169 255 / 36%)", "overlayTop": "rgb(25 124 220 / 10%)", "overlayBottom": "rgb(3 23 62 / 28%)", "card": "rgb(10 73 135 / 38%)", "heading": "#effaff", "text": "#f5fbff", "accent": "#ffd166", "border": "rgb(112 195 255 / 70%)" } }
+  {
+    "id": "tim",
+    "name": "Tim",
+    "spotifyUrl": "https://open.spotify.com/track/4kn3oqrioMIsxtb6EULCiw?si=eabb67f99d964bf4",
+    "theme": {
+      "backgroundImage": "images/tim-zwembad.jpg",
+      "backgroundColor": "#101526",
+      "backgroundDeep": "#050712",
+      "glow": "rgb(255 42 220 / 54%)",
+      "overlayTop": "rgb(5 10 25 / 8%)",
+      "overlayBottom": "rgb(3 5 18 / 24%)",
+      "card": "rgb(7 13 30 / 40%)",
+      "heading": "#ff5ad9",
+      "text": "#f5f7ff",
+      "accent": "#b8ff3b",
+      "border": "rgb(81 244 255 / 78%)"
+    }
+  },
+  {
+    "id": "brigit",
+    "name": "Brigit",
+    "spotifyUrl": "https://open.spotify.com/track/5QF0rE2dndU0aGNCOXkxq3?si=e6bdb579ff444596",
+    "theme": {
+      "backgroundImage": "images/brigit-winterbos.jpg",
+      "backgroundColor": "#dceef6",
+      "backgroundDeep": "#173c56",
+      "glow": "rgb(255 255 255 / 54%)",
+      "overlayTop": "rgb(225 242 252 / 8%)",
+      "overlayBottom": "rgb(8 28 44 / 30%)",
+      "card": "rgb(245 251 255 / 10%)",
+      "heading": "#07537a",
+      "text": "#174b66",
+      "accent": "#a87b2c",
+      "border": "rgb(255 255 255 / 60%)"
+    }
+  },
+  {
+    "id": "sonja",
+    "name": "Sonja",
+    "spotifyUrl": "https://open.spotify.com/track/6qpt8RfvSz67i1UzPusvFt?si=5f579ddf622b4138",
+    "theme": {
+      "backgroundImage": "images/sonja-kalender.jpg",
+      "backgroundColor": "#792c29",
+      "backgroundDeep": "#321516",
+      "glow": "rgb(220 104 86 / 34%)",
+      "overlayTop": "rgb(255 255 255 / 5%)",
+      "overlayBottom": "rgb(0 0 0 / 20%)",
+      "card": "rgb(255 239 226 / 30%)",
+      "heading": "#711e1c",
+      "text": "#361916",
+      "accent": "#852c24",
+      "border": "rgb(208 128 103 / 72%)"
+    }
+  },
+  {
+    "id": "ramon",
+    "name": "Ramon",
+    "spotifyUrl": "",
+    "theme": {
+      "backgroundImage": null,
+      "backgroundColor": "#274d43",
+      "backgroundDeep": "#142522",
+      "glow": "rgb(177 215 167 / 32%)",
+      "overlayTop": "rgb(255 255 255 / 5%)",
+      "overlayBottom": "rgb(0 0 0 / 20%)",
+      "card": "rgb(241 249 234 / 87%)",
+      "heading": "#285c48",
+      "text": "#273d31",
+      "accent": "#a36b38",
+      "border": "rgb(177 215 167 / 70%)"
+    }
+  },
+  {
+    "id": "monique",
+    "name": "Monique",
+    "spotifyUrl": "https://open.spotify.com/track/3AOksJAaGTyEQ7EUHG93IZ?si=f9697a1151ab4729",
+    "theme": {
+      "backgroundImage": "images/monique-murdoku.jpg",
+      "backgroundColor": "#572d3b",
+      "backgroundDeep": "#241820",
+      "glow": "rgb(238 173 151 / 32%)",
+      "overlayTop": "rgb(255 255 255 / 5%)",
+      "overlayBottom": "rgb(0 0 0 / 20%)",
+      "card": "rgb(255 242 233 / 34%)",
+      "heading": "#7d293b",
+      "text": "#40272b",
+      "accent": "#b36a43",
+      "border": "rgb(224 164 141 / 72%)"
+    }
+  },
+  {
+    "id": "arthur",
+    "name": "Arthur",
+    "spotifyUrl": "https://open.spotify.com/track/7yVyTfEMnR4p1LcAbo2uiF?si=f04a0946c90c49dd",
+    "theme": {
+      "backgroundImage": "images/arthur-wadden.jpg",
+      "backgroundColor": "#66502d",
+      "backgroundDeep": "#292216",
+      "glow": "rgb(248 214 132 / 36%)",
+      "overlayTop": "rgb(255 255 255 / 5%)",
+      "overlayBottom": "rgb(0 0 0 / 20%)",
+      "card": "rgb(255 249 226 / 20%)",
+      "heading": "#75551f",
+      "text": "#40351f",
+      "accent": "#a44b32",
+      "border": "rgb(236 200 119 / 74%)"
+    }
+  },
+  {
+    "id": "eva",
+    "name": "Eva",
+    "spotifyUrl": "https://open.spotify.com/track/2Bz4aSSRLoiWGat0xHbIk0?si=b7d5197b7fae409c",
+    "theme": {
+      "backgroundImage": "images/eva-makeup.jpg",
+      "backgroundColor": "#d2c0a9",
+      "backgroundDeep": "#66574a",
+      "glow": "rgb(255 239 214 / 35%)",
+      "overlayTop": "rgb(255 248 235 / 7%)",
+      "overlayBottom": "rgb(71 54 41 / 18%)",
+      "card": "rgb(240 226 207 / 34%)",
+      "heading": "#624b3a",
+      "text": "#40362d",
+      "accent": "#9a7350",
+      "border": "rgb(231 212 187 / 58%)"
+    }
+  },
+  {
+    "id": "sophie",
+    "name": "Sophie",
+    "spotifyUrl": "https://open.spotify.com/album/2lRsZapxZxX43cmoDygp45?si=73473861f9a942f5",
+    "theme": {
+      "backgroundImage": "images/sophie-juwelen.jpg",
+      "backgroundColor": "#b9cad9",
+      "backgroundDeep": "#566779",
+      "glow": "rgb(235 248 255 / 55%)",
+      "overlayTop": "rgb(255 255 255 / 5%)",
+      "overlayBottom": "rgb(54 65 88 / 15%)",
+      "card": "rgb(244 249 255 / 55%)",
+      "heading": "#514379",
+      "text": "#293547",
+      "accent": "#57417d",
+      "border": "rgb(235 245 255 / 85%)"
+    }
+  },
+  {
+    "id": "bob",
+    "name": "Bob",
+    "spotifyUrl": "https://open.spotify.com/track/2EJl41p0t7stIkDdZSEq4E?si=e8fe9aa3136147c5",
+    "theme": {
+      "backgroundImage": "images/bob-trui.jpg",
+      "backgroundColor": "#394e62",
+      "backgroundDeep": "#1b2431",
+      "glow": "rgb(184 210 226 / 34%)",
+      "overlayTop": "rgb(255 255 255 / 5%)",
+      "overlayBottom": "rgb(0 0 0 / 20%)",
+      "card": "rgb(242 248 251 / 20%)",
+      "heading": "#315a78",
+      "text": "#2c3b49",
+      "accent": "#ad7142",
+      "border": "rgb(184 210 226 / 72%)"
+    }
+  },
+  {
+    "id": "joep",
+    "name": "Joep",
+    "spotifyUrl": "https://open.spotify.com/track/68Fa3IMF05Rj9lX3TRJepp?si=3c72e508d0664081",
+    "theme": {
+      "backgroundImage": "images/joep-box.jpg",
+      "backgroundColor": "#a9c99b",
+      "backgroundDeep": "#263c2d",
+      "glow": "rgb(205 235 190 / 34%)",
+      "overlayTop": "rgb(240 255 235 / 4%)",
+      "overlayBottom": "rgb(24 43 29 / 16%)",
+      "card": "rgb(222 241 216 / 34%)",
+      "heading": "#315d39",
+      "text": "#233b2b",
+      "accent": "#55774f",
+      "border": "rgb(190 224 180 / 52%)"
+    }
+  },
+  {
+    "id": "jose",
+    "name": "José",
+    "spotifyUrl": "https://open.spotify.com/track/0iyz853L3VDvFtqxEEl6kh?si=8fcbc7bee92a477d",
+    "theme": {
+      "backgroundImage": "images/jose-vakantie.jpg",
+      "backgroundColor": "#b9823d",
+      "backgroundDeep": "#39291d",
+      "glow": "rgb(255 205 119 / 42%)",
+      "overlayTop": "rgb(255 222 157 / 10%)",
+      "overlayBottom": "rgb(42 26 15 / 28%)",
+      "card": "rgb(255 239 202 / 50%)",
+      "heading": "#704718",
+      "text": "#443421",
+      "accent": "#a66c20",
+      "border": "rgb(245 198 116 / 78%)"
+    }
+  },
+  {
+    "id": "ton",
+    "name": "Ton",
+    "spotifyUrl": "https://open.spotify.com/track/3tI8Biqw9ZKBMrQ5qayNBs?si=a537fb85683d400b",
+    "theme": {
+      "backgroundImage": "images/ton-speculaas.jpg",
+      "backgroundColor": "#168bd2",
+      "backgroundDeep": "#06264f",
+      "glow": "rgb(65 169 255 / 36%)",
+      "overlayTop": "rgb(25 124 220 / 10%)",
+      "overlayBottom": "rgb(3 23 62 / 28%)",
+      "card": "rgb(10 73 135 / 38%)",
+      "heading": "#effaff",
+      "text": "#f5fbff",
+      "accent": "#ffd166",
+      "border": "rgb(112 195 255 / 70%)"
+    }
+  },
+  {
+    "id": "mats",
+    "name": "Mats",
+    "spotifyUrl": "https://open.spotify.com/track/6POiYj4t6SVPhnNIn3bcH7?si=e584cde230dc4782",
+    "theme": {
+      "backgroundImage": "images/piets-mats.png",
+      "backgroundColor": "#18243a",
+      "backgroundDeep": "#080d1a",
+      "glow": "rgb(103 223 255 / 38%)",
+      "overlayTop": "rgb(8 24 48 / 8%)",
+      "overlayBottom": "rgb(3 8 20 / 26%)",
+      "card": "rgb(15 31 54 / 42%)",
+      "heading": "#d5f6ff",
+      "text": "#f3f6ff",
+      "accent": "#ffbf69",
+      "border": "rgb(103 223 255 / 72%)"
+    }
+  }
 ]

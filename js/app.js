@@ -6,7 +6,7 @@ const guestNavigation = document.getElementById('guest-navigation');
 const guestList = document.getElementById('guest-list');
 const musicSection = document.getElementById('music-section');
 const playerElement = document.getElementById('spotify-player');
-const guestOrder = ['ton', 'jose', 'sonja', 'ramon', 'monique', 'arthur', 'brigit', 'tim', 'bob', 'joep', 'eva', 'sophie'];
+const guestOrder = ['ton', 'jose', 'sonja', 'ramon', 'monique', 'arthur', 'brigit', 'tim', 'bob', 'joep', 'eva', 'sophie', 'mats'];
 const guestPortraits = {
     ton: 'images/sint-ton.jpg',
     jose: 'images/hoodpiet-jose.jpg',
@@ -19,7 +19,8 @@ const guestPortraits = {
     bob: 'images/piet-bob.jpg',
     joep: 'images/piet-joep.jpg',
     eva: 'images/piet-eva.jpg',
-    sophie: 'images/piet-sophie.jpg'
+    sophie: 'images/piet-sophie.jpg',
+    mats: 'images/piets-mats.png'
 };
 
 function showStatus(text) {
